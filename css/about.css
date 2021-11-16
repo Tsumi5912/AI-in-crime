@@ -1,0 +1,41 @@
+#about
+{
+  height: auto;
+  width: 100%;
+  background-color: #0b2966;
+  color: #fff !important;
+}
+
+.info
+{
+  background-color: #123973;
+  height: auto;
+  padding: 6% 7%;
+}
+.infom
+{
+  background-color: #123973;
+  height: auto;
+  padding: 1% 2%;
+}
+
+.title
+{
+  border-bottom: 2px solid #fff;
+  margin-bottom: 3%;
+  font-weight: bold;
+  width: 100%;
+  font-size:20px;
+}
+.titlem
+{
+  font-weight: bold;
+  width: 100%;
+  font-size:20px;
+text-align: center;
+}
+.art
+{
+  text-align: justify;
+  font-size: 16px;
+}

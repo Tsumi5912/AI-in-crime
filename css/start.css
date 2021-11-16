@@ -1,0 +1,92 @@
+.start
+{
+
+}
+
+* 
+{
+  box-sizing:border-box;
+}
+
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+  height: auto;
+}
+
+.mySlides {
+    display: none;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 15px;
+  color: white;
+  background-color: #123973;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 0px 0px 0;
+}
+
+.next {
+  right: 0;
+  border-radius: 0px 0 0 0px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+.slidecont
+{
+  width: 100%;
+  padding-top: 4%;
+  padding-bottom: 15%;
+
+}
+
+.im
+{
+  float: left;
+  text-align: right;
+  width: 20%;
+  padding-left: 10%;
+}
+
+.im img
+{
+	width: 85%;
+	height: 85%;
+}
+
+.przesl
+{
+  
+  float: right;
+  width: 75%;
+  padding-right: 10%;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}

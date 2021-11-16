@@ -1,0 +1,59 @@
+.footer
+{
+  background-color: #123973;
+  color: #fff;
+  width: 100%;
+  box-shadow: 1px 1px 10px;
+}
+
+
+.data
+{
+  background-color: #123973;
+  width: 90%;
+  text-align: center;
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
+.cb
+{
+  width: 10%;
+  float:left;
+  text-align: left;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  padding-right: 1%;
+}
+
+.cb img
+{
+  width: 20%;
+  height: 20%;
+}
+
+.sql
+{
+  padding-top: 2%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  width: 10%;
+  float:left;
+  text-align: left;
+}
+
+.sql img
+{
+  width: 95%;
+  height: 95%;
+}
+
+.author
+{
+  text-align: right;
+  font-size: 10px;
+  padding-top: 2.65%;
+  width: 70%;
+  float: right;
+}

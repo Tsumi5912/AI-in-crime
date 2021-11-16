@@ -1,0 +1,30 @@
+#cont
+{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: #203d0f !important;
+}
+
+.sendform
+{
+  width: 100%;
+  display: inline-block;
+  height: auto;
+  text-align: left;
+  padding-top: 9%;
+  padding-bottom: 9%;
+  padding-right: 15%;
+  padding-left: 15%;
+}
+
+.txt2
+{
+  background-color: rgba(255,255,255, 0.5);
+  text-align: left;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+}

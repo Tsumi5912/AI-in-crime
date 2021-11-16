@@ -1,0 +1,76 @@
+
+.home
+{
+  background-image: url("img/img1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+.homep1
+{
+  background-image: url("img/img5.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 13%;
+}
+.homep2
+{
+  background-image: url("img/img6.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 13%;
+}
+.homep3
+{
+  background-image: url("img/img7.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 13%;
+}
+
+#att
+{
+  padding-bottom: 15%;
+}
+
+
+#att2
+{
+  padding-bottom: 5%;
+}
+
+.txt
+{
+  background-color: rgba(255,255,255, 0.75);
+  text-align: left;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 6%;
+  padding-right: 2%;
+  margin: 0;
+  width: 35%;
+  font-weight: bold;
+  font-size: 20px;
+}
+.txtp
+{
+  background-color: rgba(255,255,255, 0.75);
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 0;
+  width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+}
